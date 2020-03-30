@@ -1,5 +1,4 @@
-package com.jlab.faster.mapper;
-
+package com.github.jlabsys;
 import com.google.gson.Gson;
 import org.springframework.stereotype.Component;
 import org.springframework.util.Assert;
