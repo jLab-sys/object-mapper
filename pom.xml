@@ -6,7 +6,7 @@
 
     <groupId>com.github.jlabsys</groupId>
     <artifactId>object-mapper</artifactId>
-    <version>0.1</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>Object Mapper</name>
