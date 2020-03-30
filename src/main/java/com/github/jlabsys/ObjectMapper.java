@@ -12,8 +12,6 @@ import java.util.Map;
 /**
  * @author Shehara Jayashan
  * @version 0.1
- * @date 3/30/2020
- * @copyright © 2010-2019 jLab. All Rights Reserved
  */
 @Component
 public class ObjectMapper {
